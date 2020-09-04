@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuoteApp/static/css/main.a05f2f59.chunk.css",
+    "main.js": "/QuoteApp/static/js/main.9e7cf565.chunk.js",
+    "main.js.map": "/QuoteApp/static/js/main.9e7cf565.chunk.js.map",
+    "runtime-main.js": "/QuoteApp/static/js/runtime-main.5c12aa0e.js",
+    "runtime-main.js.map": "/QuoteApp/static/js/runtime-main.5c12aa0e.js.map",
+    "static/js/2.2443163b.chunk.js": "/QuoteApp/static/js/2.2443163b.chunk.js",
+    "static/js/2.2443163b.chunk.js.map": "/QuoteApp/static/js/2.2443163b.chunk.js.map",
+    "index.html": "/QuoteApp/index.html",
+    "precache-manifest.d9f196845db7b992a499643a1d8d9198.js": "/QuoteApp/precache-manifest.d9f196845db7b992a499643a1d8d9198.js",
+    "service-worker.js": "/QuoteApp/service-worker.js",
+    "static/css/main.a05f2f59.chunk.css.map": "/QuoteApp/static/css/main.a05f2f59.chunk.css.map",
+    "static/js/2.2443163b.chunk.js.LICENSE.txt": "/QuoteApp/static/js/2.2443163b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c12aa0e.js",
+    "static/js/2.2443163b.chunk.js",
+    "static/css/main.a05f2f59.chunk.css",
+    "static/js/main.9e7cf565.chunk.js"
+  ]
+}
