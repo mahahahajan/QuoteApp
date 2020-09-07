@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/QuoteApp/static/css/main.eef37915.chunk.css",
-    "main.js": "/QuoteApp/static/js/main.0384f4ca.chunk.js",
-    "main.js.map": "/QuoteApp/static/js/main.0384f4ca.chunk.js.map",
+    "main.css": "/QuoteApp/static/css/main.56212fac.chunk.css",
+    "main.js": "/QuoteApp/static/js/main.fa069b84.chunk.js",
+    "main.js.map": "/QuoteApp/static/js/main.fa069b84.chunk.js.map",
     "runtime-main.js": "/QuoteApp/static/js/runtime-main.5c12aa0e.js",
     "runtime-main.js.map": "/QuoteApp/static/js/runtime-main.5c12aa0e.js.map",
-    "static/js/2.1f0d46c3.chunk.js": "/QuoteApp/static/js/2.1f0d46c3.chunk.js",
-    "static/js/2.1f0d46c3.chunk.js.map": "/QuoteApp/static/js/2.1f0d46c3.chunk.js.map",
+    "static/js/2.9a765dc5.chunk.js": "/QuoteApp/static/js/2.9a765dc5.chunk.js",
+    "static/js/2.9a765dc5.chunk.js.map": "/QuoteApp/static/js/2.9a765dc5.chunk.js.map",
     "index.html": "/QuoteApp/index.html",
-    "precache-manifest.5eb3951bcf445abc5b1544fa8d623885.js": "/QuoteApp/precache-manifest.5eb3951bcf445abc5b1544fa8d623885.js",
+    "precache-manifest.7457d69da39375fe42c4e5cd443a09a8.js": "/QuoteApp/precache-manifest.7457d69da39375fe42c4e5cd443a09a8.js",
     "service-worker.js": "/QuoteApp/service-worker.js",
-    "static/css/main.eef37915.chunk.css.map": "/QuoteApp/static/css/main.eef37915.chunk.css.map",
-    "static/js/2.1f0d46c3.chunk.js.LICENSE.txt": "/QuoteApp/static/js/2.1f0d46c3.chunk.js.LICENSE.txt"
+    "static/css/main.56212fac.chunk.css.map": "/QuoteApp/static/css/main.56212fac.chunk.css.map",
+    "static/js/2.9a765dc5.chunk.js.LICENSE.txt": "/QuoteApp/static/js/2.9a765dc5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5c12aa0e.js",
-    "static/js/2.1f0d46c3.chunk.js",
-    "static/css/main.eef37915.chunk.css",
-    "static/js/main.0384f4ca.chunk.js"
+    "static/js/2.9a765dc5.chunk.js",
+    "static/css/main.56212fac.chunk.css",
+    "static/js/main.fa069b84.chunk.js"
   ]
 }
